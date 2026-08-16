@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "ruleset_version": "2026.08.2",
+  "package_url": "https://raw.githubusercontent.com/Markus-NAS/prompt-generator-rules/main/releases/2026.08.2/prompt-ruleset-2026.08.2.zip",
+  "package_sha256": "9178c1b7104e191c02a8fa21b7c03fbb9bcb23012ae0d9fda111f665f540a30b",
+  "notes": "Qualitätssicherung präzisiert; Fast-Modus nutzt frühe Ausschlusskriterien; ChatGPT-Adapter verhindert unbelegte Behauptungen über Live-Prüfungen.",
+  "published_at": "2026-08-16T09:50:00+02:00"
+}
