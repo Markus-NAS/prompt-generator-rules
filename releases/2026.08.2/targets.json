@@ -1,0 +1,15 @@
+{
+  "work_modes": {
+    "auto": "Wähle selbst die angemessene Arbeitsweise. Nutze Recherche, zusätzliche Tiefe oder strukturierte Analyse nur, wenn sie für eine zuverlässige Antwort einen erkennbaren Mehrwert bringen.",
+    "fast": "Priorisiere eine zügige, belastbare Entscheidung. Wende harte Ausschlusskriterien früh an, begrenze Recherche und Varianten auf das Notwendige und vertiefe nur Punkte, die das Ergebnis wesentlich verändern.",
+    "web_research": "Nutze aktuelle Webrecherche für zeitabhängige oder verifizierungsbedürftige Angaben. Prüfe die wichtigsten Aussagen an belastbaren Quellen und vermeide unnötig breite Recherche.",
+    "deep_research": "Führe eine systematische, mehrstufige Recherche durch. Definiere den Untersuchungsumfang klar, priorisiere Primär- bzw. Originalquellen, prüfe widersprüchliche Angaben und stoppe, sobald die Fragestellung belastbar beantwortet ist.",
+    "study": "Erkläre didaktisch. Baue die Antwort vom Grundverständnis zur Anwendung auf, erkläre Fachbegriffe und nutze geeignete Beispiele oder kurze Verständnischecks, wenn sie hilfreich sind."
+  },
+  "chatgpt": {
+    "instruction": "Dieser Prompt ist für ChatGPT bestimmt. Interpretiere Abschnittsüberschriften als strukturierte Arbeitsanweisungen. Nutze verfügbare Recherchewerkzeuge passend zum gewählten Arbeitsmodus und den fachlichen Anforderungen. Behaupte keine Live-Prüfung, wenn die entsprechende Funktion nicht tatsächlich verwendet wurde."
+  },
+  "generic": {
+    "instruction_template": "Dieser Prompt ist für {label} bestimmt. Nutze die vorhandenen Fähigkeiten des Zielsystems, ohne nicht dokumentierte Spezialbefehle vorauszusetzen. Falls eine verlangte Funktion wie Webrecherche im gewählten Modus nicht verfügbar ist, weise darauf hin und bearbeite die Aufgabe mit den verfügbaren Mitteln so zuverlässig wie möglich."
+  }
+}
