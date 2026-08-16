@@ -1,0 +1,33 @@
+{
+  "depth": {
+    "short": "Antworte knapp und konzentriere dich auf die entscheidenden Punkte.",
+    "normal": "Erkläre die Antwort klar, strukturiert und mit ausreichender Begründung.",
+    "detailed": "Analysiere die Fragestellung ausführlich und erläutere relevante Zusammenhänge.",
+    "expert": "Bearbeite die Fragestellung auf Expertenniveau, prüfe Annahmen und begründe Schlussfolgerungen präzise."
+  },
+  "research": {
+    "none": "Nutze keine Websuche, außer sie ist für eine korrekte Antwort zwingend erforderlich.",
+    "web": "Nutze Webrecherche, wenn Aktualität oder externe Verifikation relevant ist.",
+    "deep": "Führe eine intensive Webrecherche durch, vergleiche mehrere belastbare Quellen und prüfe widersprüchliche Angaben."
+  },
+  "sources": {
+    "normal": "Nutze geeignete Quellen und kennzeichne Unsicherheiten.",
+    "reputable": "Bevorzuge seriöse, fachlich belastbare und möglichst aktuelle Quellen.",
+    "primary": "Bevorzuge Primärquellen, offizielle Dokumentation, Herstellerunterlagen, Behörden, Normen oder wissenschaftliche Originalarbeiten."
+  },
+  "output": {
+    "auto": "Wähle das Ausgabeformat so, dass die Antwort möglichst verständlich und effizient ist.",
+    "prose": "Antworte überwiegend in gut strukturiertem Fließtext.",
+    "bullets": "Strukturiere die Antwort überwiegend in übersichtlichen Stichpunkten.",
+    "table": "Nutze Tabellen für Vergleiche und ergänze kurze Erläuterungen.",
+    "steps": "Gib eine nachvollziehbare Schritt-für-Schritt-Anleitung."
+  },
+  "audience": {
+    "layperson": "Erkläre Fachbegriffe verständlich und vermeide unnötigen Jargon.",
+    "student": "Erkläre didaktisch, prüfungsorientiert und mit passenden Beispielen.",
+    "professional": "Setze solides Fachwissen voraus und fokussiere auf praktische Anwendbarkeit.",
+    "expert": "Setze Fachkenntnisse voraus und gehe in technische bzw. wissenschaftliche Tiefe."
+  },
+  "quality": "Trenne belegte Fakten, plausible Schlussfolgerungen und Unsicherheiten klar voneinander. Erfinde keine Quellen, Zahlen oder technischen Details. Prüfe bei zeitabhängigen Angaben das konkrete Datum. Wenn Webrecherche genutzt wird, belege die wichtigsten aktuellen Aussagen nachvollziehbar. Weise auf wesentliche Einschränkungen und widersprüchliche Quellen hin.",
+  "primary_source_citation": "Belege zentrale, nicht triviale Aussagen mit konkreten Quellen. Verlinke oder benenne die verwendeten Originalquellen so präzise wie möglich."
+}
