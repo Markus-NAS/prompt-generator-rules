@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "ruleset_version": "2026.08.2",
+  "compatible_app_min": "1.5.0",
+  "target_adapter_schema_version": "1",
+  "modules": {
+    "core": "2026.08.2",
+    "target_adapters": "2026.08.2"
+  },
+  "files": {
+    "core.json": "83c1fa42b6f4264076d5e9a39b9e78ed71798180ce7e5542532498527bab31c4",
+    "targets.json": "0823941d6fca4c15901b5a7eed90ddc6ce11fd51d9e50bac8ffcabb8fadc1743"
+  }
+}
